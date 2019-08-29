@@ -1,2 +1,2 @@
-# marketing-external
-External marketing materials
+# MARKETING (EXTERNAL)
+This repository contains external marketing material for hubii.
